@@ -20,3 +20,4 @@
 
 /* ***************************  Main Block  *************************** */
 DISPLAY "HOLA MUNDO".
+DISPLAY "otro mundo"
