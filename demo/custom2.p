@@ -21,4 +21,5 @@
 /* ***************************  Main Block  *************************** */
 
 DISPLAY "hola mundo".
-DISPLAY "Hola dos"
+DISPLAY "Hola dos".
+Display "hola tres".
